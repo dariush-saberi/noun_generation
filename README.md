@@ -4,10 +4,10 @@ The dataset for the paper in INLG 2019 Workshop on Computational Creativity in N
 <br>
 <br>
 <br>
-@inproceedings{saberi2019noun,
-title={Noun Generation for Nominalization in Academic Writing},
-author={Saberi, Dariush and Lee, John},
-booktitle={INLG 2019 Workshop on Computational Creativity in Natural Language Generation},
-year={2019}
+@inproceedings{saberi2019noun,<br>
+title={Noun Generation for Nominalization in Academic Writing},<br>
+author={Saberi, Dariush and Lee, John},<br>
+booktitle={INLG 2019 Workshop on Computational Creativity in Natural Language Generation},<br>
+year={2019}<br>
 }
 
